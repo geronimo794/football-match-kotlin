@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorLineBrown">#999</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorDate">#d35400</color>
+    <color name="colorVS">#d63031</color>
+    <color name="colorScore">#00b894</color>
+    <color name="colorBGCardView">#ecf0f1</color>
+    <color name="colorPantauLaga">#4bcffa</color>
+    <color name="colorLihatTim">#34e7e4</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBgTeamList">#f1f2f6</color>
+    <color name="colorBgTeamDetail">#f1f2f6</color>
+    <color name="colorTabTextTeamDetail">#000</color>
+
+
+</resources>

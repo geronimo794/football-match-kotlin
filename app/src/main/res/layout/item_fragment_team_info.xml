@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp">
+
+    <TextView
+            android:text="Tahun Terbentuk :"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"/>
+    <TextView
+            android:text="1994"
+            android:textSize="20sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:id="@+id/textViewFormedYear"/>
+    <TextView
+            android:text="Stadium :"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"/>
+    <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            tools:srcCompat="@tools:sample/backgrounds/scenic[0]"
+            android:id="@+id/imageViewStadiumThumb"/>
+    <TextView
+            android:text="Stadium El Manu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textAlignment="center"
+            android:id="@+id/textViewStadium"/>
+    <TextView
+            android:text="Ini adalah stadion"
+            android:layout_width="match_parent"
+            android:textSize="20sp"
+            android:layout_height="wrap_content"
+            android:id="@+id/textViewStadiumDescription"/>
+    <TextView
+            android:text="Website :"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:textStyle="bold"/>
+    <TextView
+            android:text="https://www.google.com"
+            android:layout_width="match_parent"
+            android:textSize="20sp"
+            android:layout_height="wrap_content"
+            android:id="@+id/textViewWebsite"/>
+    <TextView
+            android:text="Tentang :"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:textStyle="bold"/>
+    <TextView
+            android:text="Ini adalah bla bla bla"
+            android:layout_width="match_parent"
+            android:textSize="20sp"
+            android:layout_height="wrap_content"
+            android:id="@+id/textViewDescriptionEN"/>
+
+</LinearLayout>

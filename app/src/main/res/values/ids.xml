@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="league_name" type="id"/>
+    <item name="league_badge" type="id"/>
+    <item name="txtvwHomeTeam" type="id"/>
+    <item name="txtvwDate" type="id"/>
+    <item name="txtvwAwayTeam" type="id"/>
+    <item name="txtvwHomeScore" type="id"/>
+    <item name="txtvwAwayScore" type="id"/>
+    <item name="itemLampau" type="id"/>
+    <item name="itemMendatang" type="id"/>
+    <item name="img_team_logo" type="id"/>
+    <item name="recyclerViewLiga" type="id"/>
+    <item name="recyclerViewListEvent" type="id"/>
+    <item name="recyclerViewFavoriteEvent" type="id"/>
+    <item name="searchViewPertandingan" type="id"/>
+    <item name="searchViewTim" type="id"/>
+    <item name="recyclerViewListTeam" type="id"/>
+    <item name="recyclerViewPlayer" type="id"/>
+    <item name="recyclerViewTeam" type="id"/>
+</resources>

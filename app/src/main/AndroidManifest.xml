@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="in.rozik.footballmatch">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.READ_CALENDAR" />
+    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+
+    <application
+            android:allowBackup="true"
+            android:icon="@mipmap/ic_launcher"
+            android:label="@string/app_name"
+            android:roundIcon="@mipmap/ic_launcher_round"
+            android:supportsRtl="true"
+            android:theme="@style/Theme.AppCompat.Light">
+        <activity
+                android:name=".leaguelist.LeagueListActivity"
+                android:resource="@xml/searchable">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".eventtabs.EventTabsActivity">
+        </activity>
+        <activity android:name=".eventdetail.EventDetailActivity">
+        </activity>
+        <activity android:name=".eventbottomnavigation.EventBottomNavigationActivity">
+        </activity>
+        <activity android:name=".eventbottomnavigation.Old2EventBottomNavigationActivity">
+        </activity>
+        <activity android:name=".favoriteeventlist.FavoriteEventListActivity">
+        </activity>
+        <activity android:name=".favoriteeventdetail.FavoriteEventDetailActivity">
+        </activity>
+        <activity android:name=".teamlist.TeamListActivity">
+        </activity>
+        <activity android:name=".teamdetail.TeamDetailActivity">
+        </activity>
+        <activity android:name=".playerdetail.PlayerDetailActivity">
+        </activity>
+        <activity android:name=".favoritetabs.FavoriteTabsActivity">
+        </activity>
+        <activity android:name=".searchtabs.SearchTabsActivity">
+        </activity>
+    </application>
+
+</manifest>

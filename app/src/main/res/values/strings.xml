@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name">Jadwal Liga Inggris</string>
+    <string name="league_country">England</string>
+    <string name="league_sport">Soccer</string>
+    <string name="search_hint">Cari</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="laga_lampau">Laga Lampau</string>
+    <string name="laga_mendatang">Laga Mendatang</string>
+    <string name="liga_favorit">Liga Favorit</string>
+    <string name="detail_laga">Detail Laga</string>
+    <string name="remove_favorite">Removed from favorite</string>
+    <string name="add_favorite">Added to favorite</string>
+    <string name="pilih_liga">Pilih Liga :</string>
+    <string name="lampau">lampau</string>
+    <string name="mendatang">mendatang</string>
+    <string name="event">event</string>
+    <string name="idEvent">idEvent</string>
+    <string name="leagueId">leagueId</string>
+    <string name="daftar_laga">Daftar Laga Liga</string>
+    <string name="teamId">teamId</string>
+    <string name="jenisLaga">jenisLaga</string>
+    <string name="daftar_laga_liga">Daftar Laga Liga</string>
+    <string name="detail_laga_favorit">Detail Laga Favorit</string>
+    <string name="favoriteEvent">favoriteEvent</string>
+    <string name="laga">Laga</string>
+    <string name="tim">Tim</string>
+    <string name="data_favorit">Data Favorit</string>
+    <string name="footbal_apps">Football Apps</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact based on your message
+        history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value"/>
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="leagueName">leagueName</string>
+    <string name="team">team</string>
+    <string name="teamName">teamName</string>
+    <string name="dummy_player_description">Alex Iwobi (born 3 May 1996) is a Nigerian professional footballer who plays
+        as a winger and a striker for Premier League club Arsenal. He also represents Nigeria national side. Iwobi was
+        born in Lagos before moving to England at the age of four. He is the nephew of ex-professional footballer
+        Jay-Jay Okocha. Iwobi joined Arsenal while still at primary school, and was first involved in a first-team match
+        as an unused substitute in a League Cup match against West Bromwich Albion on 25 September 2013. He signed a new
+        long-term contract with Arsenal in October 2015.r r On 27 October 2015, Iwobi made his first-team debut for the
+        club, starting in a 3–0 defeat to Sheffield Wednesday in the Round of 16 of the League Cup. He made his Premier
+        League debut four days later in a 3–0 win against Swansea City at the Liberty Stadium, as a stoppage time
+        substitute for Mesut Özil. Iwobi made his Champions League debut as an 85th-minute substitute in a 5–1 defeat
+        against Bayern Munich. Iwobi started in the first team for the 2015–16 FA Cup 3rd and 4th round home wins
+        against Sunderland and Burnley respectively.r r After getting a first Champions League start in a 3–1 away
+        defeat to Barcelona, Iwobi went on to score two goals in his first two Premier League starts in wins against
+        Everton, and Watford, respectively.r r Iwobi changed squad number from 45 to 17, upon hearing that Alexis
+        Sánchez will take up the newly vacated number 7 from the departing Tomáš Rosický.
+    </string>
+    <string name="player">player</string>
+    <string name="idTeam">idTeam</string>
+    <string name="data_favorit_anda">Data Favorit Anda</string>
+    <string name="pencarian_tim_laga">Pencarian Tim dan Laga</string>
+
+</resources>

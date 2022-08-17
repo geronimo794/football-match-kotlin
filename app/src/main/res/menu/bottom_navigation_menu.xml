@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+            android:id="@+id/itemLampau"
+            android:enabled="true"
+            android:title="@string/laga_lampau"
+            android:icon="@drawable/ic_lampau"
+            app:showAsAction="ifRoom"/>
+
+    <item
+            android:id="@+id/itemMendatang"
+            android:enabled="true"
+            android:icon="@drawable/ic_mendatang"
+            android:title="@string/laga_mendatang"
+            app:showAsAction="ifRoom"/>
+
+</menu>
